@@ -1,9 +1,9 @@
 # OpenCore-Asus-TUF-B450M-Plus-Gaming
 Hackintosh EFI with OpenCore for Asus TUF B450M Plus Gaming
 
-OpenCore Version: 0.5.7
+OpenCore Version: 0.6.3
 
-Support MacOS 10.15.3-10.15.4 Catalina
+Support MacOS 10.15.3-10.15.7 Catalina, 11.0.1 Big Sur
 
 ## 兼容情况
 
@@ -14,6 +14,7 @@ Support MacOS 10.15.3-10.15.4 Catalina
 - [x] macOS 版本 / macOS Version
     - [x] 10.15.3 Catalina
     - [x] 10.15.4 Catalina
+    - [x] 11.0.1 Big Sur
 - [x] 显卡 / GPU
     - [x] AMD RX580 2048SP
     - [x] 显卡硬解 / GPU Hardware Decoding
