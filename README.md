@@ -5,6 +5,8 @@ OpenCore Version: 0.6.3
 
 Support MacOS 10.15.3-10.15.7 Catalina, 11.0.1 Big Sur
 
+由于本人已经更换 Mac mini 2020，本项目已经弃用。
+
 ## 兼容情况
 
 ### 完美 / Perfect
